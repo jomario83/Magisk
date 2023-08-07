@@ -1,3 +1,4 @@
+![Screenshot_20230803_111307_Chrome](https://github.com/topjohnwu/Magisk/assets/77593537/e2f4eef5-d88d-4143-8432-d9c5f14de20c)
 # Developer Guides
 
 ## BusyBox
